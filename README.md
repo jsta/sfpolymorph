@@ -2,6 +2,8 @@
 sfpolymorph
 ===========
 
+![](/inst/figures/sheep.png)
+
 [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 
 The goal of sfpolymorph is to create an add-on for the `sf` package to quantify various aspects of polygon shape.

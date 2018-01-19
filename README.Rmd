@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
 
 # sfpolymorph
 
-```{r echo=FALSE, out.width="100%"}
+```{r echo=FALSE, out.width="10%"}
 knitr::include_graphics("./inst/figures/sheep.png")
 ```
 

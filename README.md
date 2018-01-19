@@ -2,7 +2,7 @@
 sfpolymorph
 ===========
 
-<img src="./inst/figures/sheep.png" width="100%" />
+<img src="./inst/figures/sheep.png" width="10%" />
 
 [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 

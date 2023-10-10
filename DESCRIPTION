@@ -1,7 +1,7 @@
 Package: sfpolymorph
 Title: Calculate polygon shape metrics
 Version: 0.1
-Authors@R: person("Joseph", "Stachelek", comment = c(ORCID = "0000-0002-5924-2464"), role = c("aut", "cre"), 
+Authors@R: person("Jemma", "Stachelek", comment = c(ORCID = "0000-0002-5924-2464"), role = c("aut", "cre"), 
  email = "stachel2@msu.edu")
 Description: Calculate polygon shape metrics.
 URL: https://github.com/jsta/sfpolymorph
